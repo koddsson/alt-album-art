@@ -16,6 +16,6 @@ Optimized builds:
 
 ## License
 
-Copyright © 2014 Kristján Oddsson
+Copyright © 2015 Kristján Oddsson
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
